@@ -2,7 +2,7 @@
   "name": "GistLog",
   "description": "GistLog - Pretiffy the gist view in the form of blog",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
