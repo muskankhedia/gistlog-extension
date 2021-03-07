@@ -7,6 +7,8 @@ One second to read Github gist in a beautified way.
 
 Gistlog: [https://github.com/tighten/gistlog](https://github.com/tighten/gistlog)
 
+To know more about usage of gistlog: [Watch this](https://youtu.be/nj1sRYdcXZ8)
+
 # Installation
 
 For now, the extension hasn't been published in chrome store. You can clone the extension and load it as unpacked extension.
